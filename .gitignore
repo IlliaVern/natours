@@ -3,6 +3,7 @@ node_modules/
 /scratch
 # local env files
 .env
+.cache/
 /config.env
 .env.local
 .env.*.local
